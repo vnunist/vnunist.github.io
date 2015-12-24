@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "vnunist",
-    "repositoryName": "vnunist.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"vnunist","repositoryName":"vnunist.github.io","branch":"master"},"site":{"cover":"https://scontent-icn1-1.xx.fbcdn.net/hphotos-xtp1/t31.0-8/12087922_10153260620935208_4745421239165301157_o.jpg","url":"https://vnunist.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//vnunist.github.io/themes/Casper"}}
